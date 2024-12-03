@@ -10,7 +10,7 @@ O desenvolvimento foi realizado utilizando a plataforma **Google Colab**, com o 
 
 Assim como, a estrutura dele consiste em três arquivos Python (.py):
 - [projeto](projeto.py): Contém o Streamlit do website.
-- [colab](colab.py): Contém todas as funções, dados e dataframes os quais o website acessa.
+- [biblio](biblio.py): Contém todas as funções, dados e dataframes os quais o website acessa.
 - [imagens](imagens.py): Contém os endereços para as imagens exibidas no website (que não visualizações).
  
 ## Tecnologias e Bibliotecas Utilizadas
@@ -32,4 +32,4 @@ Além disso, o website conta com mais duas funcionalidades:
 2. **Pokemon Mais Forte/Fraco:** Encontra os Pokemon mais forte e mais fraco de determinado Tipo.
 
 ## Como acessar
-- [Tutorial](Tutorial_Como_abrir_o_projeto.pdf)
+- [Tutorial](Tutorial_PT.pdf)
