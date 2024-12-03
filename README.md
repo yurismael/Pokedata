@@ -10,7 +10,7 @@ The development was carried out using the **Google Colab** platform, supported b
 
 Additionally, the project structure consists of three Python (.py) files:
 - [projeto](projeto.py): Contains the Streamlit implementation of the website.
-- [biblio](colab.py): Contains all functions, data, and dataframes accessed by the website.
+- [biblio](biblio.py): Contains all functions, data, and dataframes accessed by the website.
 - [imagens](imagens.py): Contains the URLs for images displayed on the website (not related to visualizations).
 
 ## Technologies and Libraries Used
