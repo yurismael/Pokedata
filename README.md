@@ -9,9 +9,9 @@ This repository presents a website developed as part of a **Prospective Data Ana
 The development was carried out using the **Google Colab** platform, supported by various Python libraries for data manipulation, visualization, and application hosting.
 
 Additionally, the project structure consists of three Python (.py) files:
-- [project](projeto.py): Contains the Streamlit implementation of the website.
-- [colab](colab.py): Contains all functions, data, and dataframes accessed by the website.
-- [images](imagens.py): Contains the URLs for images displayed on the website (not related to visualizations).
+- [projeto](projeto.py): Contains the Streamlit implementation of the website.
+- [biblio](colab.py): Contains all functions, data, and dataframes accessed by the website.
+- [imagens](imagens.py): Contains the URLs for images displayed on the website (not related to visualizations).
 
 ## Technologies and Libraries Used
 1. **Pandas:** Data manipulation and analysis using DataFrames.
@@ -32,5 +32,5 @@ Additionally, the website offers two extra features:
 2. **Strongest/Weakest Pokémon:** Finds the strongest and weakest Pokémon of a given Type.
 
 ## How to Access
-- [Tutorial](Tutorial_Como_abrir_o_projeto.pdf)
+- [Tutorial](Tutorial_EN.pdf)
 
