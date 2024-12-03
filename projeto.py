@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np 
-import colab as pkm
+import biblio as pkm
 import matplotlib.pyplot as plt
 import imagens as pki
 
