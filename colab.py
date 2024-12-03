@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Inserção do dataframe original e limpeza inicial
-df = pd.read_csv("/content/drive/MyDrive/Colab Notebooks/Projeto/pokemon_data.csv")
+df = pd.read_csv("/content/pokemon_data.csv")
 
 df = df.drop(['dexnum', 'ability1', 'ability2', 'hidden_ability'], axis = 1)
 df = df.drop(['ev_yield', 'catch_rate', 'base_friendship', 'base_exp'], axis = 1)
