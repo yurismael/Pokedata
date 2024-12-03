@@ -1,5 +1,7 @@
 # Pokedata
 
+- [English Version](README_EN.md)
+
 ## Introdução
 Este repositório apresenta um website desenvolvido como parte de um projeto de **Análise Prospectiva de Dados**, que explora a mediocridade dos Pokémon em relação aos seus tipos. O objetivo principal é analisar padrões e gerar insights a partir de dados relacionados aos atributos dos Pokémon.
 
@@ -30,4 +32,4 @@ Além disso, o website conta com mais duas funcionalidades:
 2. **Pokemon Mais Forte/Fraco:** Encontra os Pokemon mais forte e mais fraco de determinado Tipo.
 
 ## Como acessar
-[Tutorial](Tutorial_ Como abrir o projeto.pdf)
+- [Tutorial](Tutorial_Como_abrir_o_projeto.pdf)
