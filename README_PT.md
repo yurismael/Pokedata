@@ -30,4 +30,4 @@ Além disso, o website conta com mais duas funcionalidades:
 2. **Pokemon Mais Forte/Fraco:** Encontra os Pokemon mais forte e mais fraco de determinado Tipo.
 
 ## Como acessar
-[Tutorial](Tutorial_ Como abrir o projeto..pdf)
+[Tutorial](Tutorial_ Como abrir o projeto.pdf)
