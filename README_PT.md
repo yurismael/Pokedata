@@ -1,6 +1,6 @@
 # Pokedata
 
-- [English Version](README_EN.md)
+- [English Version](README.md)
 
 ## Introdução
 Este repositório apresenta um website desenvolvido como parte de um projeto de **Análise Prospectiva de Dados**, que explora a mediocridade dos Pokémon em relação aos seus tipos. O objetivo principal é analisar padrões e gerar insights a partir de dados relacionados aos atributos dos Pokémon.
